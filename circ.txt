@@ -1,0 +1,29 @@
+0 wA
+1 wB
+2 rC
+3 wC
+4 add
+5 sub
+6 and
+7 or 
+8 not
+9 input
+10 sRam
+11 lRam
+12 mdir
+13 mdir
+14 mdir
+15 mdir
+
+
+1  la memdir
+2  lb memdir
+3  sv memdir
+4  add
+5  sub
+6  and
+7  or
+8  not
+9  in memdir
+10 setC memdir
+11 setCount
